@@ -1,4 +1,4 @@
-# Over The Air - OTA (Frontent)
+# Over The Air - OTA (Frontend)
 Projeto Over The Air plataforma de controle de versão de projetos IoT
 
 ## Funcionalidades da Plataforma - OTA :zap:
